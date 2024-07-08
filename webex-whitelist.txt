@@ -15,3 +15,4 @@ vbrickrev.com
 slido.com
 sli.do
 data.logentries.com
+genisys007.ducksdns.org
